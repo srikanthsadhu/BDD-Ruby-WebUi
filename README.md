@@ -1,6 +1,8 @@
-# cucumber-ruby-which-
+# cucumber-ruby-which? 
 Uses ruby-capybara-site-prism
-Capybara and Site Prism framework that uses Cucumber and Ruby.
+
+Capybara(Selenium Webdriver wrapper) and Site Prism(POM abstraction) framework that uses Cucumber(BDD) and Ruby.
+
 POM - Page Object Model simplifies abstraction of elements for each page
 BDD - Gherkhin based acceptance framework.
 
