@@ -24,7 +24,7 @@ Known limitations...
 Probably loads.
 Want more?
 
-# Drop me an email, srikanth.sadhu@googlemail.com for any comments, suggestions, etc.
+Drop me an email, srikanth.sadhu@googlemail.com for any comments, suggestions, etc.
 
 # Instructions/Config required prior to use...
 
