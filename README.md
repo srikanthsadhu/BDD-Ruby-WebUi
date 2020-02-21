@@ -11,11 +11,11 @@ A good example to see expectations in action.
 Good use of the Page Object Model.
 Supports Chrome, Headless .
 Some basic profiles are included
-References : 
+# References : 
 https://www.rubydoc.info/gems/site_prism/frames#Using_SitePrism_with_RSpec
 https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers
 
-What this is not...
+# What this is not...
 
 An over all perfect all-in-one super and ONLY BDD framework.
 Something that you can 100% copy over for any app (though I suspect you'd be able to use most, as is).
@@ -24,9 +24,9 @@ Known limitations...
 Probably loads.
 Want more?
 
-Drop me an email, srikanth.sadhu@googlemail.com for any comments, suggestions, etc.
+# Drop me an email, srikanth.sadhu@googlemail.com for any comments, suggestions, etc.
 
-Instructions/Config required prior to use...
+# Instructions/Config required prior to use...
 
 After cloning this repo...
 Create a new gemset, i.e. 'ruby-capybara-site-prism'
